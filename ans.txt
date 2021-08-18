@@ -1,0 +1,2 @@
+Student ID is: 1212
+Student name is: Amalinga
